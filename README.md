@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-# 💫 About Me:<br><br>
+# 💫 About Me:<br>
 - 🔭 I’m currently working on **Kavach2023 Hackathon**
 
 - 🌱 I’m currently learning **Python**
