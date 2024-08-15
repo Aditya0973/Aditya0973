@@ -2,9 +2,9 @@
 <h3 align="center">A passionate developer from India</h3>
 
 # 💫 About Me:<br>
-- 🔭 I’m currently working on **Java**
+- 🔭 I’m currently working on **Flutter**
 
-- 🌱 I’m currently learning **Python** and **Java**
+- 🌱 I’m currently learning **Flutter** and **Python**
 
 - 📫 How to reach me **adityakumar4727@gmail.com**
 
