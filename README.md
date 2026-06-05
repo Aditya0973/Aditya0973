@@ -12,15 +12,15 @@ Designer • Builder • Creator
 
 <br>
 
-<a href="YOUR_PORTFOLIO">
+<a href="https://adityakumar.framer.website/">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=framer&logoColor=white">
 </a>
 
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/adityakumar0973/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="YOUR_CRAFTEDCO">
+<a href="https://www.linkedin.com/in/crafted-co-a150a8393/">
   <img src="https://img.shields.io/badge/Crafted_Co-111111?style=for-the-badge">
 </a>
 
