@@ -76,7 +76,7 @@ Offline-first habit tracker designed for simplicity and consistency.
 
 ### Champione
 Gamified workout tracker that turns fitness into an RPG.  
-📱 **[Google Play]**(https://play.google.com/store/apps/details?id=com.craftedco.champione)
+📱 **[Google Play](https://play.google.com/store/apps/details?id=com.craftedco.champione)**
 
 ---
 
