@@ -43,7 +43,7 @@ I'm a UI/UX designer and indie developer passionate about crafting polished digi
 
 ### 🎨 Personal Portfolio
 A collection of my design, development and creative work.  
-🔗 **[Visit Portfolio](https://adityakumar.framer.website/)**
+🔗 **[Visit Portfolio]**<!--(https://adityakumar.framer.website/)**-->
 
 ### 🏢 Crafted Co
 My independent design studio focused on premium digital products and visual systems.  
