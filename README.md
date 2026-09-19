@@ -12,7 +12,7 @@ Designer • Builder • Creator
 
 <br>
 
-<a href="https://adityakumar.framer.website/">
+<a href="https://portfolio-adityakumar.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=framer&logoColor=white">
 </a>
 
@@ -48,7 +48,7 @@ I'm a UI/UX designer and indie developer passionate about crafting polished digi
 
 ### 🎨 Personal Portfolio
 A collection of my design, development and creative work.  
-🔗 **[Visit Portfolio](https://adityakumar.framer.website/)**
+🔗 **[Visit Portfolio](https://portfolio-adityakumar.vercel.app/)**
 
 ### 🏢 Crafted Co
 My independent design studio focused on premium digital products and visual systems.  
